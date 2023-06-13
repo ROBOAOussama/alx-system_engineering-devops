@@ -1,0 +1,1 @@
+All directories of Shell 
